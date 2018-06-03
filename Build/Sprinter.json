@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Sprinter.data.unityweb",
+"asmCodeUrl": "Sprinter.asm.code.unityweb",
+"asmMemoryUrl": "Sprinter.asm.memory.unityweb",
+"asmFrameworkUrl": "Sprinter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
